@@ -1,8 +1,8 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://www.appflowy.io">AppFlowy.IO</a><br>
+        <a href="https://doc.codingjr.online">doc.codingjr.online</a><br>
     </b>
-    ⭐️  The Open Source Alternative To Notion  ⭐️ <br>
+    ⭐️  The Open Source Alternative To codingjr  ⭐️ <br>
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@ You are in charge of your data and customizations.
 </p>
 
 <p align="center">
-<a href="https://discord.gg/9Q2xaN37tV"><img src="https://img.shields.io/badge/AppFlowy.IO-discord-orange"></a>
+<a href="https://discord.gg/9Q2xaN37tV"><img src="https://img.shields.io/badge/codingjr-discord-orange"></a>
 <a href="https://github.com/AppFlowy-IO/appflowy"><img src="https://img.shields.io/github/stars/AppFlowy-IO/appflowy.svg?style=flat&logo=github&colorB=deeppink&label=stars"></a>
 <a href="https://github.com/AppFlowy-IO/appflowy"><img src="https://img.shields.io/github/forks/AppFlowy-IO/appflowy.svg"></a>
 <a href="https://opensource.org/licenses/AGPL-3.0"><img src="https://img.shields.io/badge/license-AGPL-purple.svg" alt="License: AGPL"></a>
