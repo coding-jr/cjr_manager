@@ -2,7 +2,6 @@
     <b>
         <a href="https://doc.codingjr.online">doc.codingjr.online</a><br>
     </b>
-    ⭐️  The Open Source Alternative To codingjr  ⭐️ <br>
 </h1>
 
 <p align="center">
